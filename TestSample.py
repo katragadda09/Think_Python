@@ -1,0 +1,1 @@
+print('this is an attemp to follow the program called 100daysofML')
